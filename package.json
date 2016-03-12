@@ -1,0 +1,27 @@
+{
+  "name": "Responsive-Web-Page",
+  "version": "1.0.0",
+  "description": "A responsive web page built using HTML5, CSS3 and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Matei94/Responsive-Web-Page.git"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "Express"
+  ],
+  "author": "Razvan MATEI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matei94/Responsive-Web-Page/issues"
+  },
+  "homepage": "https://github.com/Matei94/Responsive-Web-Page",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
