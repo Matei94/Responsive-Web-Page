@@ -31,3 +31,14 @@ Punctarea se va face in modul urmaror:
   - 2 puncte pentru responsivitatea paginii web
   - 2 puncte pentru [validare HTML5](https://validator.w3.org/)
   - 2 puncte pentru aspectul paginii.
+
+## Build
+```
+sudo npm init
+sudo npm install express --save
+```
+
+## Run
+```
+  sudo -E PORT=80 node index.js
+```
