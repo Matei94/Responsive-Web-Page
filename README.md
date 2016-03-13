@@ -38,11 +38,13 @@ Punctarea se va face in modul urmaror:
   - 2 puncte pentru aspectul paginii
 
 ## Build
+
 ```
 sudo npm install
 ```
 
 ## Run
+
 ```
-  sudo -E PORT=80 node index.js
+sudo -E PORT=80 node index.js
 ```
