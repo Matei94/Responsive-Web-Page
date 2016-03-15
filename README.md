@@ -4,7 +4,7 @@
   - General:
     - [0] Pagina trebuie sa fie despre domeniul: Turism
     - [0] Background: Imagine
-    - [0] Font: Verdana
+    - [1] Font: Verdana
   - Header:
     - [0] Layout: O coloana
     - [0] Background: Culoare
@@ -26,9 +26,9 @@
       - [0] Citate
       - [0] Div
   - Footer:
-    - [0] Layout: Doua coloane
-    - [0] Background: Culoare
-    - [0] Elemente obligatorii: Link-uri, Data, Copyright, Contact
+    - [1] Layout: Doua coloane
+    - [1] Background: Culoare
+    - [1] Elemente obligatorii: Link-uri, Data, Copyright, Contact
 
 ## Punctare
 Punctarea se va face in modul urmaror:
