@@ -10,21 +10,21 @@
     - [0] Background: Culoare
     - [0] Meniu de tip: Dropdown
   - Main:
-    - [0] Layout: Doua coloane
-    - [0] Meniu de tip: Vertical cu Dropdown
-    - [0] Formular login: Da
-    - [0] Formular feedback: Da
+    - [1] Layout: Doua coloane
+    - [1] Meniu de tip: Vertical cu Dropdown
+    - [1] Formular login: Da
+    - [1] Formular feedback: Da
     - [0] Numar de articole: Trei
     - [0] Elemente obligatorii articole:
-      - [0] Titlu
-      - [0] Data
-      - [0] Imagine
-      - [0] Video
-      - [0] Ancora
+      - [1] Titlu
+      - [1] Data
+      - [1] Imagine
+      - [1] Video
+      - [1] Ancora
       - [0] Tabel
-      - [0] Paragraf
-      - [0] Citate
-      - [0] Div
+      - [1] Paragraf
+      - [1] Citate
+      - [1] Div
   - Footer:
     - [1] Layout: Doua coloane
     - [1] Background: Culoare
